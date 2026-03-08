@@ -1,6 +1,8 @@
 # Trabajo-final-Bank-Marketing
 **Caso de Estudio N°1: Análisis Exploratorio Bank Marketing 📊**
+
 **📝 Descripción del Proyecto**
+
 Este proyecto consiste en una aplicación interactiva desarrollada en Python utilizando Streamlit, diseñada para realizar un Análisis Exploratorio de Datos (EDA) detallado del dataset BankMarketing.csv.
 
 El objetivo principal es investigar las razones detrás de la caída en la efectividad de las campañas comerciales de una institución financiera, la cual disminuyó del 12% al 8% en un periodo de seis meses. La herramienta permite visualizar relaciones clave entre variables demográficas y el éxito de la campaña para facilitar la toma de decisiones basada en datos.
