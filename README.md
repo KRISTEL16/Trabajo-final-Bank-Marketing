@@ -10,7 +10,7 @@ Proponer soluciones: Generar hallazgos que permitan mejorar la efectividad comer
 
 **Estructura de la Aplicación**
 
-Módulo 1: Home (Presentación): Contiene el título del proyecto, descripción del objetivo, tecnologías utilizadas y los datos de la autora.
+Módulo 1 (Presentación): Contiene el título del proyecto, descripción del objetivo, tecnologías utilizadas y los datos de la autora.
 Módulo 2: Carga del Dataset: Espacio dedicado a la carga del archivo .csv con validación automática de datos y vista previa de dimensiones.
 Módulo 3: Análisis Exploratorio (EDA): El núcleo del proyecto, dividido en pestañas (st.tabs) que cubren 10 ítems de análisis, desde estadística descriptiva hasta análisis bivariados y dinámicos.
 Módulo 4: Conclusiones: Un resumen técnico de 5 hallazgos clave orientados a la toma de decisiones empresariales.
