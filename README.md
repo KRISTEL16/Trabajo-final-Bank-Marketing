@@ -16,5 +16,7 @@ Módulo 3: Análisis Exploratorio (EDA): El núcleo del proyecto, dividido en pe
 Módulo 4: Conclusiones: Un resumen técnico de 5 hallazgos clave orientados a la toma de decisiones empresariales.
 
 Nombre: Kristel Palacios
+
 Curso: Especialización Python for Analytics
+
 Año: 2026
