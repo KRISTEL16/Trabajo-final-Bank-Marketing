@@ -26,3 +26,8 @@ Para correr este proyecto localmente:
 - Streamlit Cloud: https://trabajo-final-bank-marketing-kristelpalacios.streamlit.app/
 
 - Repositorio: https://github.com/KRISTEL16/Trabajo-final-Bank-Marketing
+
+**Autor: Kristel Palacios**
+- Especialización: Python for Analytics
+
+- Año: 2026
