@@ -15,7 +15,6 @@ Módulo 2: Carga del Dataset: Espacio dedicado a la carga del archivo .csv con v
 Módulo 3: Análisis Exploratorio (EDA): El núcleo del proyecto, dividido en pestañas (st.tabs) que cubren 10 ítems de análisis, desde estadística descriptiva hasta análisis bivariados y dinámicos.
 Módulo 4: Conclusiones: Un resumen técnico de 5 hallazgos clave orientados a la toma de decisiones empresariales.
 
-Autor
 Nombre: Kristel Palacios
 Curso: Especialización Python for Analytics
 Año: 2026
