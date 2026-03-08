@@ -4,8 +4,11 @@
 La aplicación está orientada al Análisis Exploratorio de Datos (EDA) del dataset BankMarketing.csv. El contexto principal se basa en una institución financiera que ha experimentado una caída crítica en la efectividad de sus campañas de marketing, pasando del 12% al 8% en los últimos seis meses.
 
 A través de esta herramienta, se busca:
+
 Identificar patrones: Descubrir qué variables influyen realmente en la aceptación de los clientes.
+
 Contextualizar la caída: Analizar el comportamiento de los indicadores durante la última campaña.
+
 Proponer soluciones: Generar hallazgos que permitan mejorar la efectividad comercial sin recurrir a modelos predictivos complejos en esta etapa inicial.
 
 **Estructura de la Aplicación**
